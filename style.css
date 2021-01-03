@@ -10,7 +10,8 @@
 }
 
 body{
-    background-color: #9ad3bc;
+    background-image: url(patern.png);
+    background-repeat: repeat;
     font-size: 14px;
     line-height: 22px;
     color: #ad251e;
@@ -143,7 +144,7 @@ body{
       background:#ffffff
   }
   .resume .resume_right{
-      background-color: #f3eac2;
+      background-color: #faf7e8;
       padding: 25px;
     
   }
