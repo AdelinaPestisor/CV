@@ -1,1 +1,1 @@
-# First repository. Learning HTML
+My resume in HTML and CSS. 
