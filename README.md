@@ -1,1 +1,1 @@
-My resume in HTML and CSS. 
+My resume in HTML and CSS.
